@@ -5,7 +5,7 @@ MemShield attempts to drastically minimize the scope of remote code vulnerabilit
 
 In development stage, not ready for use. Detailed installation guide would be provided once the project is at Alpha stage.
 
-MemShield is a windows dll which once loaded it would enforce:
+MemShield is a windows dll which once loaded would enforce:
 1) No memory page in a process can have execute permissions which does not belong to a loaded image.
 2) Inside a loaded image, enforce "write xor execute" page permissions.
 3) Runtime creation of executable pages would not be allowed.
