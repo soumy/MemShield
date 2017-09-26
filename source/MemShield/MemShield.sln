@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemShield", "MemShield.vcxproj", "{48DBE17C-D654-463D-A658-DA2BF5AADFBE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDBCreate", "..\SDBCreate\SDBCreate.vcxproj", "{608E218E-072D-4C88-A123-8DEB553A8A32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DBE17C-D654-463D-A658-DA2BF5AADFBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48DBE17C-D654-463D-A658-DA2BF5AADFBE}.Debug|Win32.Build.0 = Debug|Win32
+		{48DBE17C-D654-463D-A658-DA2BF5AADFBE}.Debug|x64.ActiveCfg = Debug|x64
+		{48DBE17C-D654-463D-A658-DA2BF5AADFBE}.Debug|x64.Build.0 = Debug|x64
+		{48DBE17C-D654-463D-A658-DA2BF5AADFBE}.Release|Win32.ActiveCfg = Release|Win32
+		{48DBE17C-D654-463D-A658-DA2BF5AADFBE}.Release|Win32.Build.0 = Release|Win32
+		{48DBE17C-D654-463D-A658-DA2BF5AADFBE}.Release|x64.ActiveCfg = Release|x64
+		{48DBE17C-D654-463D-A658-DA2BF5AADFBE}.Release|x64.Build.0 = Release|x64
+		{608E218E-072D-4C88-A123-8DEB553A8A32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{608E218E-072D-4C88-A123-8DEB553A8A32}.Debug|Win32.Build.0 = Debug|Win32
+		{608E218E-072D-4C88-A123-8DEB553A8A32}.Debug|x64.ActiveCfg = Debug|Win32
+		{608E218E-072D-4C88-A123-8DEB553A8A32}.Debug|x64.Build.0 = Debug|Win32
+		{608E218E-072D-4C88-A123-8DEB553A8A32}.Release|Win32.ActiveCfg = Release|Win32
+		{608E218E-072D-4C88-A123-8DEB553A8A32}.Release|Win32.Build.0 = Release|Win32
+		{608E218E-072D-4C88-A123-8DEB553A8A32}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
