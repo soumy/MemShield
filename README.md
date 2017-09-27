@@ -16,7 +16,7 @@ Help needed:
 1) Developers
 2) Testers 
 
-Install instructions for all OS except Windows 10:
+Install instructions for all Windows versions starting from Windows XP, except Windows 10:
 1) Download the latest release and extract the archive. Perform the following steps on the system where you want the deployment.
 
 2) Open command prompt(cmd.exe) as local Administrator and change directory to the folder where you extracted the release archive.
